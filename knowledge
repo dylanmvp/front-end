@@ -1,0 +1,47 @@
+学习线路图：
+一、html+css
+二、进阶：css3
+     重点学习弹性布局
+初始项目阶段(1.0)
+    模拟某购物网站，进行基本静态页面搭建
+三、bootstrap，重点学习媒体查询和栅格布局系统
+项目阶段改良(2.0)
+    对项目进行响应式布局，适应三屏下兼容
+四、javascriptbasic
+了解数据类型和条件语句，并对面向对象初步了解
+能重用的代码尽量封装，封装属性和方法，起到重用
+项目经历：2048小试牛刀
+五、DOM BOM
+了解原生DOM树，能够实现DOM树的增删改查
+定时器interval 、 timeout
+BOM中的一些screen、history、navigator、document、location、screen、event
+其中event并不能算纯粹的BOM
+e.stopPropagation阻止冒泡  e.preventDefault阻止事件默认行为
+项目阶段改良(3.0)尝试DOM树的增删改查
+六、javascriptcore
+js进阶知识 进一步学习OOP、构造函数等
+了解ES发展，ES5、ES6知识、目前已经出了ES7，ES6中加入了模板字符串、块级作用域let、
+构造函数基类class、箭头函数等
+项目经历：俄罗斯方块，用面向对象的方式编写
+七、juqery类库
+简化DOM操作，write less , do more 
+项目阶段改良(4.0) 购物网站的一些动态效果，放大镜、轮播、电梯点亮等
+八、server & http 
+了解http通信模式，请求头、请求起始行、请求主体
+了解后台数据库mysql 了解基本操作增删改查数据
+了解服务器端语言php  与客户端通信模式 从数据库查找到客户端更新
+九、AJAX
+异步请求，提高用户体验，解决跨域请求
+项目阶段改良(5.0) 页面数据从后台加载，并异步请求数据，提高用户体验
+十、node.js
+前后端通吃的语言，如果有一天express中间件的强大，将无所不能，but when ?
+项目阶段改良(6.0) 更换后端语言，利用node.js搭建轻量服务器，与mysql交互
+十一、H5新特性CORE
+新的表单特性 属性 
+canvas svg 画图的区别 
+Geolocation 拖放API等
+web worker 存储API:cookie\sessionstorage\localstorage  web socket
+十二、开始框架学习
+angular.js   手机端sdk开发   ionic  phoneGap  zepto.js react.js vue.js等
+这是又开启了一个新的世界，各种框架之间的优缺点以及相互兼容的问题等等
+刚刚步入前端领域，对你对我都是一种进步，学习从来都不曾停止。
